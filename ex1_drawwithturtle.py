@@ -11,5 +11,5 @@ for i in range(5):
     t.right(144)
 
 t.end_fill()
-##t.hideturtle()
+t.hideturtle()
 turtle.done()
